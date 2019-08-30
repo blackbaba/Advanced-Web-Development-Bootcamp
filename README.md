@@ -21,5 +21,7 @@ Repository to track course and project work for the [Advanced Web Developer Boot
 - Authentication and Authorization
 - Asynchronous Code with JavaScript
 
+Other useful skills and toolsets - Git, Heroku, AWS.
+
 ## Project Work (Deployed at Heroku)  
 Work in Progress ...
