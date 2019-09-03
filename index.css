@@ -20,8 +20,7 @@ a {
 
 a:hover {
   color: #3498db;
-  border-bottom: #3498db;
-
+  border-bottom: 1px solid #3498db;
 }
 
 i {
