@@ -1,6 +1,9 @@
 # Advanced Web Development Bootcamp
 Repository to track course and project work for the [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/). This will build on the recently completed [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
 
+## Project Work (Deployed at Heroku)  
+Work in Progress ...
+
 ## Curriculum
 - CSS3 Transitions, Transforms and Animations
 - Testing with Jasmine
@@ -23,5 +26,3 @@ Repository to track course and project work for the [Advanced Web Developer Boot
 
 Other useful skills and toolsets - Git, Heroku, AWS.
 
-## Project Work (Deployed at Heroku)  
-Work in Progress ...
