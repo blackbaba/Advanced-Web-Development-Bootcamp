@@ -1,8 +1,13 @@
 # Advanced Web Development Bootcamp
 Repository to track course and project work for the [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/). This will build on the recently completed [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
 
-## Project Work (Deployed at Heroku)  
-Work in Progress ...
+Git repository - https://github.com/blackbaba/Advanced-Web-Development-Bootcamp.git
+
+## Project Work (Deployed at Heroku) 
+All project code can be found in commits to the repository. 
+
+Completed project demos hosted here:
+- [Project 1 - Building a Startup Website](https://heroku.com)
 
 ## Curriculum
 - CSS3 Transitions, Transforms and Animations
@@ -24,5 +29,5 @@ Work in Progress ...
 - Authentication and Authorization
 - Asynchronous Code with JavaScript
 
-Other useful skills and toolsets - Git, Heroku, AWS.
+Other useful skills and toolsets - Git, Markdown, Heroku, AWS.
 
