@@ -7,7 +7,7 @@ Git repository - https://github.com/blackbaba/Advanced-Web-Development-Bootcamp.
 All project code can be found in commits to the repository. 
 
 Completed project demos hosted here:
-- [Project 1 - Building a Startup Website](https://heroku.com)
+- [Project 1 - Building a Startup Website](https://codepen.io/blackbaba/pen/YzKEorp)
 
 ## Curriculum
 - CSS3 Transitions, Transforms and Animations
