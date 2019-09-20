@@ -2,14 +2,21 @@ var express = require("express"),
   app = express(),
   port = process.env.PORT || 3000;
 
-// GET ROOT route
+var todoRoutes = require('./routes/todos');
+// GET Root route
 app.get("/", function (req, res) {
-  res.json({
-    message: "Hello World"
-  });
+  res.send("Hi from Root Route");
 });
 
-// Run Server
+app.use('/api/todos', todoRoutes);
+
+app.get("/", function (req, res) {});
+app.get("/", function (req, res) {});
+app.get("/", function (req, res) {});
+app.get("/", function (req, res) {});
+app.get("/", function (req, res) {});
+
+// Run server
 app.listen(port, function () {
   console.log(`App is running on port ${port}`);
 });
