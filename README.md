@@ -1,11 +1,16 @@
 # Advanced Web Development Bootcamp
+
 Repository to track course and project work for the [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/). This will build on the recently completed [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
 
 ## Project Work (Deployed at CodePen and Heroku)
-Completed project demos hosted here:
-- [Project 1 - Building a Startup Website](https://codepen.io/blackbaba/pen/YzKEorp)
+
+**Completed project demos hosted here:**
+
+- [Project 1 - Build a Startup Website using HTML and CSS](https://codepen.io/blackbaba/pen/YzKEorp)
+- [Project 2 - Create a ToDo App using Node, Express and React](https://yahoo.com)
 
 ## Curriculum
+
 - CSS3 Transitions, Transforms and Animations
 - Testing with Jasmine
 - D3
@@ -25,9 +30,9 @@ Completed project demos hosted here:
 - Authentication and Authorization
 - Asynchronous Code with JavaScript
 
-## Other useful skills acquired and toolsets learned 
+## Other useful skills acquired and toolsets learned
+
 - Git
 - Markdown
 - Heroku
 - AWS
-
