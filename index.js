@@ -1,8 +1,15 @@
 var express = require("express"),
   app = express(),
-  port = process.env.PORT || 3000;
+  port = process.env.PORT || 3000,
+  bodyParser = require('body-parser');
+
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
 
 var todoRoutes = require('./routes/todos');
+
 // GET Root route
 app.get("/", function (req, res) {
   res.send("Hi from Root Route");
@@ -10,11 +17,11 @@ app.get("/", function (req, res) {
 
 app.use('/api/todos', todoRoutes);
 
-app.get("/", function (req, res) {});
-app.get("/", function (req, res) {});
-app.get("/", function (req, res) {});
-app.get("/", function (req, res) {});
-app.get("/", function (req, res) {});
+// app.get("/", function (req, res) {});
+// app.get("/", function (req, res) {});
+// app.get("/", function (req, res) {});
+// app.get("/", function (req, res) {});
+// app.get("/", function (req, res) {});
 
 // Run server
 app.listen(port, function () {
