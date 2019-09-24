@@ -7,7 +7,7 @@ Repository to track course and project work for the [Advanced Web Developer Boot
 **Completed project demos hosted here:**
 
 - [Project 1 - Build a Startup Website using HTML and CSS](https://codepen.io/blackbaba/pen/YzKEorp)
-- [Project 2 - Create a ToDo App using Node, Express and React](https://yahoo.com)
+- [Project 2 - Create a ToDo App using Node, Express and React](https://damp-fortress-85212.herokuapp.com/)
 
 ## Curriculum
 
