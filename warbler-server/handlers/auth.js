@@ -1,7 +1,7 @@
 const db = require("../models");
 const jwt = require("jsonwebtoken");
 
-exports.signin = async function (req, res, next) {
+exports.signin = async function(req, res, next) {
   // finding a user
   try {
     let user = await db.User.findOne({
@@ -35,7 +35,7 @@ exports.signin = async function (req, res, next) {
   }
 };
 
-exports.signup = async function (req, res, next) {
+exports.signup = async function(req, res, next) {
   try {
     let user = await db.User.create(req.body);
     let { id, username, profileImageUrl } = user;
