@@ -8,9 +8,9 @@ This bootcamp will build on the recently completed [Web Developer Bootcamp](http
 
 **Completed project demos hosted here :**
 
-- [Project 1 - Build a Startup Website using HTML and CSS](https://codepen.io/blackbaba/pen/YzKEorp)
-- [Project 2 - Create a ToDo App using Node, Express and MongoDB](https://damp-fortress-85212.herokuapp.com/)
-- [Project 3 - Create a SPA (Twitter like app) using the MERN stack](https://www.yahoo.com)
+- [Project 1 - Startup Website using HTML and CSS](https://codepen.io/blackbaba/pen/YzKEorp)
+- [Project 2 - ToDo App using Node, Express and MongoDB](https://damp-fortress-85212.herokuapp.com/)
+- [Project 3 - SPA (Twitter like app) using the MERN stack](https://cryptic-journey-77099.herokuapp.com/)
 
 ## Curriculum
 
