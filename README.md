@@ -10,7 +10,9 @@ This bootcamp will build on the recently completed [Web Developer Bootcamp](http
 
 - [Project 1 - Startup Website using HTML and CSS](https://codepen.io/blackbaba/pen/YzKEorp)
 - [Project 2 - ToDo App using Node, Express and MongoDB](https://damp-fortress-85212.herokuapp.com/)
-- [Project 3 - Twitter like SPA app using the MERN stack](https://warbler-frontend-bb.herokuapp.com/). Note- final code for SPA app deployed as the last commit to the Git repository
+- [Project 3 - Twitter like SPA app using the MERN stack](https://warbler-frontend-bb.herokuapp.com/). 
+
+Note- final code for SPA app deployed as the last commit to the Git repository
 
 ## Curriculum
 
